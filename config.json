@@ -1,0 +1,8 @@
+{
+    "text_model": "qwen2.5:1.5b",
+    "vision_model": "moondream",
+    "voice_model": "piper/tr_TR-fahrettin-medium.onnx",
+    "chat_memory": true,
+    "camera_rotation": 180,
+    "safe_mode": true
+}
